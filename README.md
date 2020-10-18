@@ -52,7 +52,7 @@ I'm Adam, a 20 something* programmer, scientist and engineer from the South of E
 
 I'm always happy to answer any questions one might have, so please feel free to drop me a line above, and see if I can be of any use.
 
-* I use to save me the effort of rewriting in April
+\*I use to save me the effort of rewriting in April
 <!--
 **nergmada/nergmada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
