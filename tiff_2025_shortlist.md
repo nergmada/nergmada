@@ -11,3 +11,5 @@
 | Exit 8 | https://tiff.net/films/exit-8 |
 | Rental Family | https://tiff.net/films/rental-family |
 | Youngblood | https://tiff.net/films/youngblood |
+| Roofman | https://tiff.net/films/roofman |
+| Wake Up Dead Man | https://tiff.net/films/wake-up-dead-man-a-knives-out-mystery |
